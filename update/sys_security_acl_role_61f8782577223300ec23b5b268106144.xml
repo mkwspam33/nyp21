@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-09 17:24:01</sys_created_on>
+        <sys_id>61f8782577223300ec23b5b268106144</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_nyp21_t1.sn_nyp21.t1_user</sys_name>
+        <sys_package display_value="nyp21" source="sn_nyp21">4cc874e177223300ec23b5b2681061b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="nyp21">4cc874e177223300ec23b5b2681061b8</sys_scope>
+        <sys_security_acl display_value="sn_nyp21_t1">21f8782577223300ec23b5b26810611b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_61f8782577223300ec23b5b268106144</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-09 17:24:01</sys_updated_on>
+        <sys_user_role display_value="sn_nyp21.t1_user" name="sn_nyp21.t1_user">15f8382577223300ec23b5b2681061d8</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
